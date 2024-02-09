@@ -29,4 +29,4 @@ Feel free to explore Pedro Machado's technical journey, where each report serves
 | Date       | Report                                                                               |
 | ---------- | ------------------------------------------------------------------------------------ |
 | 2024-01-02 | [PasswordStore](passwordstore_report_1.pdf) |
-| 2023-02-08 | [PuppyRaffle](./reports/2023-03-13-beanstalk_wells_v0.1.pdf)                |
+| 2023-02-08 | [PuppyRaffle](puppyraffle_report_2.pdf)                |
