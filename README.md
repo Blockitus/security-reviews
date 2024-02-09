@@ -24,7 +24,7 @@ Each report within this portfolio represents a unique challenge Pedro undertook 
 Feel free to explore Pedro Machado's technical journey, where each report serves as a milestone in his pursuit of excellence in security and auditing.
 
 
-<img src="./blockitus-logo.png" alt="Blockitus" width="200" >
+<img src="./Blockitus-logo.png" alt="Blockitus" width="200" >
 
 | Date       | Report                                                                               |
 | ---------- | ------------------------------------------------------------------------------------ |
